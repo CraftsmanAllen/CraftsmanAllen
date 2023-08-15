@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @CraftsmanAllen
+- 📌 I’m from Durham, NC
+- 🧠 I’m currently learning Python
+- 💻 I own a business called CraftMod
+- 📫 Contact Info: craftsmanallen24@gmail.com
