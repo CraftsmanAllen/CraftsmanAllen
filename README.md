@@ -3,3 +3,4 @@
 - 🧠 I’m currently learning Python
 - 💻 I own a business called CraftMod
 - 📫 Contact Info: craftsmanallen24@gmail.com
+- 😸 Cats Are Better Than Dogs
